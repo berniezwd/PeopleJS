@@ -70,7 +70,7 @@ function _createClass(e, r, t) {
   );
 }
 var config = {
-    src: "https://f.zhheo.com/Guli/others/open-peeps-sheet.png",
+    src: "https://cdn.jsdelivr.net/gh/berniezhong/picture-bed/github/202406031028986.png",
     rows: 15,
     cols: 7,
   },
